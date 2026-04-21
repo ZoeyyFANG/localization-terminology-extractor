@@ -1,0 +1,117 @@
+What is a translation management system?
+
+A translation management system is software that automates repetitive or manual tasks to make the translation process as efficient as possible.
+
+Imagine you want to offer your product in Spain and need to launch both your website and a marketing campaign in Spanish. To achieve that, you'd need to work with translators, designers, developers, marketers, copywriters, local market specialists, etc. Add a dozen more steps for them to follow, and you may realize how large the margin for error and misunderstanding could be.
+
+Similarly, if there are unexpected changes to the source content, your existing translations need to be updated immediately. This makes it necessary to start the entire translation process from scratch: extract source content, have the translation done, review the updated website source files, and ask a developer to update the web pages—all of which costs time and money.
+
+With a translation management system, handling repetitive or manual tasks becomes a thing of the past. From uploading and translating to publishing content in multiple languages, a TMS uses automation to improve efficiency and scalability for growing companies that use content to connect with customers across markets.
+
+The difference between translation and localization
+
+Whether you have a website, web/mobile app, legal/technical documentation, or marketing materials, it's crucial to remember that translation is only one step in the overall process of localization—which ensures the all-around readiness of a product or service for a target market beyond just the written word.
+
+The moving parts of localization require a high degree of organization and control to successfully launch products across languages and cultures. By combining traditional computer-assisted translation (CAT) tools and machine translation capabilities with project management and business intelligence features, a TMS can serve as the central hub for adapting a product to a specific culture and language.
+
+Translation is the transfer of text from one language (the source) to another (the target). The goal is to accurately reflect the meaning and purpose of the original.
+
+Localization is the process of adapting that translation to the culture of the target market so that it looks and feels as native as possible.
+
+For example, there are multiple versions of Spanish based on the country or region—European, Mexican, Argentinian Spanish, and so on. Delivering the same translation to all of them can cause different issues: Certain terms may have different meanings, currency symbols will vary, formats for telephone numbers and postal addresses will be different, and the behavior of consumers won't be the same.
+
+What are some common features of translation management systems?
+
+Cutting-edge translation management systems utilize cloud technology to offer global businesses online translation software that is easy to implement, access, and integrate. There are many different TMS solutions on the market, but they typically share a core set of functions.
+
+Translation Memory stores previously translated segments for reuse, ensuring consistency and reducing costs over time. Terminology Management provides a central glossary of approved terms to maintain brand voice and accuracy across languages. Workflow Automation automates assignment, review, and approvals to speed up delivery and reduce manual errors. Machine Translation Integration connects to MT engines such as DeepL and Google to enable faster turnaround with optional post-editing. File and CMS Integrations connect to content management systems, code repositories, and marketing tools to streamline content import and export. Collaboration Tools provide in-platform commenting and review features to improve communication between translators and stakeholders. Quality Assurance checks perform automated checks for errors, formatting, and inconsistencies to prevent costly mistakes before publication. Reporting and Analytics tracks project status, costs, and performance metrics to improve planning and ROI visibility. API and Automation Capabilities enable continuous localization workflows to support scalable, ongoing content updates. Role-Based Permissions control access for translators, reviewers, and managers to enhance security and governance.
+
+Benefits of using a TMS
+
+The process of translating a website or mobile app may not be as structured as translating a book. With customer preferences evolving and content changes occurring daily, managing multilingual content can quickly become a complex and time-consuming endeavor—particularly if handled manually.
+
+Without a translation tool in your digital ecosystem, translators need to coordinate via spreadsheets, emails, or disparate chat tools. Relying on freestanding, special-purpose tools like translation memories and machine translation engines may be helpful, but using them in isolation also adds to the complexity.
+
+Translation management systems address all these issues by giving an organization a dedicated workspace for end-to-end translation project management.
+
+Reduce the risk of error through automation
+
+For decades, spreadsheets used to be the norm for translation. They might have worked for small-scale translation projects, but localization needs have evolved so fast in the ever-growing global marketplace that translation processes can quickly spiral out of control.
+
+Translation technology eliminates all those risks and provides a workflow-centric environment for teams to stay on the same page. Since it's a centralized platform, all users across roles, teams, time zones, or locations can access the same data, update it without hesitation, and see any changes occurring.
+
+With a cloud-based TMS, everyone can be sure they work from a single user interface with the latest version at all times. Managers know what everyone is doing, what tasks are complete, and where the project stands.
+
+Increase productivity with real-time team collaboration
+
+Translation is a highly collaborative process involving a dozen of in-house roles as well as contractors scattered around the world. A modern TMS provides team collaboration functionalities that help teams work more effectively.
+
+The ability to leave comments and notes for other team members, send automated notifications to other tools used within the company, and deliver real-time status updates can dramatically boost productivity across the board.
+
+This is equally beneficial when you outsource translation to a language service provider (LSP). A TMS makes it easy to keep full visibility of the work done across projects, no matter if you work with one translation agency or assign multiple vendors to a translation job.
+
+Enhance interoperability and scalability through seamless integration
+
+A TMS doesn't operate in a vacuum. Content is usually published on platforms like a CMS or product information management (PIM) software. A TMS allows integration with existing systems—either out of the box or by using its API to build a custom integration.
+
+For example, if the TMS integrates natively with your customer relationship management (CRM) system, then it will automatically deliver translated content for the sales team to forward to prospects or customers in a target market.
+
+If the TMS doesn't offer the native integration you need, it should at least have a robust, well-documented API. Developers can use the API to create a custom integration with any tool in your tech stack.
+
+Ensure consistency, accuracy, and quality
+
+Translated content represents your organization in a global transaction. Maintaining quality is a key reason to invest in a TMS—it helps ensure that each piece of content remains consistent and accurate.
+
+A TMS incorporates three core computer-assisted translation tools that help maintain quality and consistency across languages. Translation memory saves earlier translations in a database and compares word-for-word matches to determine if previously translated content can be reused, adding to consistency. Term bases give translators and reviewers guidelines on the meaning and usage of key terms that appear frequently in content, contributing to accuracy. Translation style guides are automatically included in a translation package to ensure brand alignment across languages.
+
+A TMS should also have automatic quality assurance checks to help translators fix typos, formatting issues, incorrect markup, terminology inconsistencies, and other problems before completing a translation job.
+
+Save time, reduce costs, and free up resources
+
+As translation software is all about automation, all capabilities serve an important function of reducing time and costs. With many manual tasks eliminated, teams are able to work more efficiently and process large volumes of text in multiple formats and languages more quickly.
+
+More and more companies see machine translation (MT) as a productivity tool to enter new markets more quickly while keeping costs down. By embracing artificial intelligence (AI) and machine learning, they can automatically generate translations that can be post-edited by professional linguists.
+
+The value of a TMS for global organizations
+
+With a translation management system supporting your global strategy, the improved ability to manage multiple languages across a product or service line can lead to faster time to market, greater global brand reputation, and stronger global revenue growth.
+
+Translation can be time-consuming, especially when the volume of product and service information keeps growing. Any tool that makes the translation and localization processes faster than manual management directly impacts the time to market. As supply chains move faster, a more effective translation process, made possible through an integrated TMS, becomes critical to moving faster when entering new markets.
+
+Translated content is often the global buyer's first exposure to a company's culture and values. The quality of that translation, how well it respects the buyer's culture, and the responsiveness of the company when entering new markets are all important. A TMS, with its quality control and review processes, can make a big difference in brand perception and acceptance.
+
+Creating effective translation workflows with a TMS
+
+The basic building block of any translation management system is a defined translation workflow. This workflow typically follows a standard pattern: preparing assets and extracting content for translation, setting up the localization environment, content translation, reviewing and approving translated content, and re-importing translated content back to the source.
+
+The TMS automates and streamlines each of these steps while localization managers can keep a helicopter view of the entire process on one platform.
+
+Preparing assets and extracting content for translation
+
+The translation workflow begins with the preparation and extraction of content, making all assets available and suitable for localization. Developers will name and store each file appropriately for each language in a content repository, into which they will later import the translated content as an updated version of the same file.
+
+A TMS simplifies this part by providing easy synchronization with repositories hosted on platforms like GitHub, GitLab, or Bitbucket. This allows translation project managers and developers to pull content from the repository and push translated versions back while keeping track of changes made.
+
+Setting up the localization environment
+
+Once the files are ready for translation, project managers need to assign a translator to a particular job. A TMS makes it easy to manage assignments and tasks in one place. Automatic notifications help keep everybody informed about changes in project status, deadlines, added tasks, and other important updates.
+
+Content translation
+
+Whether the project involves only human translation or combines MT and human work, the TMS provides an interface to facilitate transferring content between languages. Linguists can easily access their tasks, work in an easy-to-use editor that is context-rich with automatically captured UI screenshots, term bases, and feedback from stakeholders, and quickly submit their work for review.
+
+Reviewing and approving translated content
+
+The translation workflow normally involves an internal review and approval step to ensure the accuracy and suitability of all translations. The TMS allows multiple stakeholders such as project managers, designers, developers, marketing specialists, or other domain experts to review the content from a central location.
+
+The system also lets project managers provide feedback on the translations quickly and easily—whether it's a simple comment about stylistic preferences or more detailed instructions on how to fix an issue.
+
+Re-importing translated content for publishing back to the source
+
+Deploying the translated content into a project or pushing it to a production environment is done automatically in the TMS platform. All stakeholders get notifications when the process is complete, and developers can easily check that all translations are in place and ready for launch.
+
+Choosing the best translation management system for your needs
+
+Depending on the nature of your product or service, type of content, and desired language combinations, choosing the best translation management system requires consideration of several factors.
+
+Automation saves time and effort for both project managers and linguists through automated notifications, QA checks, and other features. Usability ensures the TMS is user-friendly, easy to learn and navigate, and provides a rich context experience. Flexibility allows customization of workflows, review processes, roles, user rights, and access levels. Scalability ensures the system can manage growing volumes of words, languages, and projects. Quality assurance incorporates traditional CAT tools such as translation memories and term bases while automating QA checks. Integration provides native connections with popular platforms and services or a strong API for custom integrations. Machine translation capabilities offer a wide range of MT engines and automatically select the best engine for content type and language pairs. Security guarantees secure data storage and transmission with strict adherence to established regulations.
